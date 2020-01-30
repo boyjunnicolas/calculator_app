@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite errors="0" failures="0" tests="1" skipped="0" name=".Users.benedictonicolas.AndroidStudioProjects.calculator_app_boyj.test.additions" timestamp="2020-01-29T09:25:56">
+    <properties>
+      <property name="platform" value="vm"/>
+    </properties>
+    <testcase classname=".Users.benedictonicolas.AndroidStudioProjects.calculator_app_boyj.test.additions" name="test additions test add function" time="0.036"/>
+  </testsuite>
+</testsuites>
